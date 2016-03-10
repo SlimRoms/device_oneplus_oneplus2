@@ -116,8 +116,8 @@ PRODUCT_PACKAGES += \
     libqcomvoiceprocessing
 
 # Camera
-PRODUCT_PACKAGES += \
-    Snap
+#PRODUCT_PACKAGES += \
+#   Snap
 
 # Charger
 PRODUCT_PACKAGES += \
