@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "9adffdf1_389ecd57",
+        "filename": "slim.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1000108
+      },
+      "writtenOn": "2016-04-14T15:47:35Z",
+      "side": 1,
+      "message": "Same for stlport",
+      "revId": "38975fb2da301ea58a8541bf5565fefc818d435d",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9adffdf1_78945537",
         "filename": "slim.dependencies",
         "patchSetId": 1
