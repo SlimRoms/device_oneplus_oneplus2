@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9adffdf1_78945537",
+        "filename": "slim.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1000108
+      },
+      "writtenOn": "2016-04-14T15:46:54Z",
+      "side": 1,
+      "message": "Oneplus2 M blobs don\u0027t require boringssl wrapper",
+      "revId": "38975fb2da301ea58a8541bf5565fefc818d435d",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
+    }
+  ]
+}
