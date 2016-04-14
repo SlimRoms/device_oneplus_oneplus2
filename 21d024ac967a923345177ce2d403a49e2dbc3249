@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9adffdf1_b872bd47",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1000108
+      },
+      "writtenOn": "2016-04-14T15:45:58Z",
+      "side": 1,
+      "message": "Remove this, 64bit requires zygote_32_64 (with 32bit zygote it won\u0027t boot) and its already set here https://github.com/SlimRoms/android_build/blob/staging/mm6.0/target/product/core_64_bit.mk#L30 which is inherited by full_oneplus2.mk (https://github.com/SlimRoms/device_oneplus_oneplus2/blob/mm6.0/full_oneplus2.mk#L18)",
+      "revId": "21d024ac967a923345177ce2d403a49e2dbc3249",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
+    }
+  ]
+}
