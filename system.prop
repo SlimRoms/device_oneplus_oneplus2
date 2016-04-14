@@ -5,6 +5,13 @@ ro.product.device=OnePlus2
 ro.build.description=OnePlus2-user 6.0.1 MMB29M 59 dev-keys
 ro.build.fingerprint=OnePlus2/OnePlus2/OnePlus2:6.0.1/MMB29M/59:user/dev-keys
 
+# ADB
+ro.adb.secure=0
+ro.secure=0
+ro.allow.mock.location=0
+ro.debuggable=1
+ro.zygote=zygote32
+
 # RIL
 rild.libpath=/vendor/lib64/libril-qc-qmi-1.so
 rild.libargs=-d /dev/smd0
