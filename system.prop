@@ -10,7 +10,6 @@ ro.adb.secure=0
 ro.secure=0
 ro.allow.mock.location=0
 ro.debuggable=1
-ro.zygote=zygote32
 
 # RIL
 rild.libpath=/vendor/lib64/libril-qc-qmi-1.so
